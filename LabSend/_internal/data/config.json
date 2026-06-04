@@ -1,0 +1,43 @@
+{
+  "app_name": "LabSend",
+  "lab_name": "Aziz PC",
+  "server_host": "0.0.0.0",
+  "server_port": 4711,
+  "upload_folder": "data/uploads",
+  "qr_expire_seconds": 120,
+  "regenerate_qr_after_scan": false,
+  "max_file_size_mb": 50,
+  "max_total_upload_mb": 200,
+  "max_files_per_session": 10,
+  "allowed_extensions": [
+    "pdf",
+    "doc",
+    "docx",
+    "ppt",
+    "pptx",
+    "xls",
+    "xlsx",
+    "jpg",
+    "jpeg",
+    "png"
+  ],
+  "blocked_extensions": [
+    "exe",
+    "msi",
+    "bat",
+    "cmd",
+    "ps1",
+    "vbs",
+    "js",
+    "scr",
+    "com",
+    "dll",
+    "jar",
+    "lnk",
+    "reg"
+  ],
+  "theme": "system",
+  "auto_delete_enabled": true,
+  "auto_delete_after_hours": 24,
+  "public_base_url": null
+}
