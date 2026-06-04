@@ -1,0 +1,127 @@
+[LabSend] Inisialisasi LabSend Print Transfer...
+[LabSend] Config loaded
+[LabSend] Database initialized
+[LabSend] Upload folder ready
+[LabSend] Old QR sessions expired
+[LabSend] QR created: 7DDBF7C1EB314732
+[LabSend] URL: http://192.168.10.22:4711/u/7DDBF7C1EB314732
+[CleanupScheduler] Started with interval: 3600 seconds
+[LabSend] Cleanup scheduler started
+[LabSend] Server running on http://0.0.0.0:4711
+
+==================================================
+  LabSend Print Transfer
+==================================================
+  Dashboard: http://localhost:4711/admin
+  QR Page:    http://localhost:4711/qr
+  Settings:   http://localhost:4711/settings
+==================================================
+  Klik kanan icon di system tray untuk menu
+  Tekan Ctrl+C untuk keluar
+==================================================
+
+INFO:     127.0.0.1:59041 - "GET /api/token/0465132CD05246C6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59041 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59041 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62239 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62239 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61095 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61095 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59971 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59971 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55319 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55319 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64659 - "GET /api/token/0465132CD05246C6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56311 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56311 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64321 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64321 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51105 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51105 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63567 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63567 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53803 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53803 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53803 - "GET /api/token/0465132CD05246C6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60825 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60825 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65169 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65169 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55566 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55566 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52742 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52742 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61445 - "GET /api/token/0465132CD05246C6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61445 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61445 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58671 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58671 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62847 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62847 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50971 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50971 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54058 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54058 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58863 - "GET /api/token/0465132CD05246C6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58863 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58863 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60573 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60573 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62065 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62065 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64765 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64765 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50331 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50331 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50331 - "GET /api/token/0465132CD05246C6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59865 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59865 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50541 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50541 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62962 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62962 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52618 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52618 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61129 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54231 - "GET /api/token/0465132CD05246C6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54231 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52693 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52693 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51742 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51742 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58772 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58772 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56722 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56722 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52505 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52505 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57426 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57426 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54160 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54160 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65088 - "POST /api/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54160 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58673 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58673 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60992 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60992 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60508 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60508 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50403 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50403 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62003 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62003 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52175 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52175 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /qr HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /api/token/A8216A1F159C4DE6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /api/token/A8216A1F159C4DE6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /api/token/A8216A1F159C4DE6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /api/token/A8216A1F159C4DE6/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /api/jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52778 - "GET /admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53508 - "GET /api/token/A8216A1F159C4DE6/files HTTP/1.1" 200 OK

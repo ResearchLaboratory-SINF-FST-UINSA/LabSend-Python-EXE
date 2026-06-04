@@ -36,7 +36,7 @@
     "lnk",
     "reg"
   ],
-  "theme": "dark",
+  "theme": "light",
   "auto_delete_enabled": true,
   "auto_delete_after_hours": 24,
   "public_base_url": null,
