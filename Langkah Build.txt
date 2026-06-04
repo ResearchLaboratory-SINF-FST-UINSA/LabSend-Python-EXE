@@ -1,0 +1,19 @@
+# 1. Pindah ke direktori project
+cd b:\LAB\labsend-py\labsend
+# 2. Jalankan proses build menggunakan PyInstaller dari .venv
+& "b:\LAB\labsend-py\.venv\Scripts\pyinstaller.exe" LabSend.spec --clean --noconfirm
+
+
+netstat -ano | findstr :4711
+
+taskkill /PID 22424 /F
+
+C:\Users\ASUS>netstat -ano | findstr :4711
+  TCP    0.0.0.0:4711           0.0.0.0:0              LISTENING       22424
+  TCP    127.0.0.1:4711         127.0.0.1:49306        TIME_WAIT       0
+  TCP    127.0.0.1:4711         127.0.0.1:51530        TIME_WAIT       0
+  TCP    127.0.0.1:4711         127.0.0.1:52061        TIME_WAIT       0
+  TCP    127.0.0.1:4711         127.0.0.1:55717        TIME_WAIT       0
+
+C:\Users\ASUS>taskkill /PID 22424 /F
+SUCCESS: The process with PID 22424 has been terminated.
