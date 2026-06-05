@@ -1,14 +1,14 @@
 {
   "app_name": "LabSend",
-  "lab_name": "Aziz PC",
+  "lab_name": "Aziz PC 1",
   "server_host": "0.0.0.0",
   "server_port": 4711,
-  "upload_folder": "data/uploads",
+  "upload_folder": "A:\\1-LabSend",
   "qr_expire_seconds": 120,
   "regenerate_qr_after_scan": false,
-  "max_file_size_mb": 50,
-  "max_total_upload_mb": 200,
-  "max_files_per_session": 10,
+  "max_file_size_mb": 5,
+  "max_total_upload_mb": 20,
+  "max_files_per_session": 2,
   "allowed_extensions": [
     "pdf",
     "doc",
@@ -36,9 +36,9 @@
     "lnk",
     "reg"
   ],
-  "theme": "light",
+  "theme": "system",
   "auto_delete_enabled": true,
-  "auto_delete_after_hours": 24,
+  "auto_delete_after_hours": 0,
   "public_base_url": null,
   "app_icon_url": "https://ugc.production.linktr.ee/npvNQB0TSZK1d28of1F2_ov5MmP8G3Bh07mrd?io=true&size=avatar-v3_0"
 }
